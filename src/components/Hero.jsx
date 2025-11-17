@@ -8,10 +8,10 @@ function Hero() {
 
       <div className="relative mx-auto max-w-4xl text-center px-6 pt-20 pb-12 sm:pt-24">
         <h1 className="text-4xl sm:text-5xl font-extrabold tracking-tight text-emerald-900 drop-shadow-sm">
-          Decade Camps United
+          Protecting our camps, our traditions, and our right to reliable power.
         </h1>
         <p className="mt-4 text-lg sm:text-xl text-emerald-800/90">
-          A warm, welcoming hub to share updates, resources, and memories across our camp community.
+          Decade Camps United is a community of camp owners working together to stay informed, stay organized, and speak with one voice about the future of Bayou Decade.
         </p>
         <div className="mt-8 inline-flex items-center gap-3 rounded-full bg-white/70 backdrop-blur px-4 py-2 shadow ring-1 ring-emerald-900/10">
           <span className="inline-block h-2 w-2 rounded-full bg-amber-500 animate-pulse" />

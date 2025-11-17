@@ -17,8 +17,22 @@ function App() {
             <div className="absolute inset-x-0 -top-6 mx-auto h-12 w-12 rounded-full bg-amber-300/40 blur-xl" />
             <h2 className="relative text-xl sm:text-2xl font-semibold text-emerald-900">Welcome</h2>
             <p className="relative mt-2 text-emerald-900/80">
-              Explore updates, browse documents, share media, and coordinate action across our community. Use the buttons below to jump into any area.
+              Our families have gathered on Bayou Decade for generations — fishing, cooking, telling stories, and keeping the lights on through storms and seasons. After Hurricane Ida, many camps lost power and clarity. This space helps us organize, protect our traditions, and work together for reliable service.
             </p>
+
+            <div className="relative mt-6 rounded-xl bg-emerald-900/90 text-amber-50 p-5 sm:p-6 shadow ring-1 ring-emerald-800/50">
+              <h3 className="text-lg font-semibold">What you’ll find here</h3>
+              <ul className="mt-3 grid grid-cols-1 sm:grid-cols-2 gap-2 text-amber-100/90">
+                <li>• Real-time updates</li>
+                <li>• PSC filings and letters</li>
+                <li>• Maps and exhibits</li>
+                <li>• Photos/videos</li>
+                <li>• Click-to-send email tools</li>
+                <li>• Private alerts signup</li>
+                <li>• Simple info submission</li>
+              </ul>
+              <div className="absolute -right-6 -bottom-6 h-20 w-20 rounded-full bg-amber-400/20 blur-2xl" />
+            </div>
           </div>
         </section>
 
